@@ -11,7 +11,7 @@ build/
 *.ipr
 out/
 
-# --- Eclipse (opcional, por si alguien usa Eclipse) ---
+# --- Eclipse ---
 .classpath
 .project
 .settings/
